@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#container {
+    display: flex;
+    height: 100vh;
+}
+
+#container .centra {
+    margin: auto;
+}
